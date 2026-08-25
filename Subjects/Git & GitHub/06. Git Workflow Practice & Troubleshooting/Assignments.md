@@ -50,6 +50,7 @@ Submit the following:
 
 ---
 ***Answer***
+https://github.com/piyuushcg-oss/Day-05-Assignment-03-/blob/main/practice.txt
 <img width="1917" height="1077" alt="Git   Github Day 06 Assignment 01 -01 - Copy jpeg" src="https://github.com/user-attachments/assets/d77d0901-d143-4777-b337-841b2e81a032" />
 <img width="1917" height="1077" alt="Git   Github Day 06 Assignment 01 -02 - Copy jpeg" src="https://github.com/user-attachments/assets/36d6cd15-1308-46d2-9980-f751168a62d8" />
 <img width="1917" height="1076" alt="Git   Github Day 06 Assignment 01 -03 - Copy jpeg" src="https://github.com/user-attachments/assets/9498a1b1-eab0-47f8-b5e3-321391a287ea" />
