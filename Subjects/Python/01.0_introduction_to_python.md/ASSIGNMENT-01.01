@@ -1,0 +1,75 @@
+Practice Problems
+
+A. Basic Understanding (Answers ONLY)
+ 
+ ANSWER 01.Python is a computer Programming, case sensitive language, and it is free and open source High Level language.
+
+ ANSWER 02: Python considered brginner-friendly because it is easy to understand the their coding language and also easy to use campair to other programming language.
+
+ ANSWER 03:   AREAS:
+                   1.In App/Websites building
+                   2.In coding
+                   3.In research 
+                   4.In Ai 
+                   5.In Automation
+
+ANSWER 04: It is a program that read and processes the code, so that computer can excute the instrution properly.
+
+ANSWER 05: Python-- It is a computer programming and case sensitive language.
+           Python interpreter-- It is a program that read and processes the code, so that computer can excute the instrution properly.
+
+ANSWER 06: Python source file is simply a file that contain PYTHON CODE. 
+
+ANSWER 07: Entension: [ .py]
+
+ANSWER 08: Python execution means running Python code so that the computer performs the   instructions written in it(code).
+
+ANSWER 09: Comment are generaly the imformation that is leaves by coder to give the information of code and program.
+
+ANSWER 10: Because comment are not consider as code in python and it is used to giving the information of code/program.
+
+
+CONCEPT-BASED Question's ANSWERs:-
+
+ANSWER 11: Python execution is the process of taking the python code you write and turing it into actions that the computer can perfrom.
+
+ANSWER 12: It's means the rule for writing the code correctly.
+
+ANSWER 13: Because without syantax, we cann't able to give the instruction to the computer by code.
+
+ANSWER 14: It means that In python "A" and "a" means differnet and python can understand the code case  in their set of rule of code.
+
+ANSWER 15: NO, these are not same name in python. because python is case sensitive language so here in python, uppercase and lowercase are treated as different.
+
+ANSWER 16: Code readable means how easy it is for a person to read, understand, and follow the code.
+
+ANSWER 17: Because readable code means how easy a person can understand, read and follow the code and for this communacation od code is esay in coder.
+
+ANSWER 18: A naming convention is a set of rule for naming varibles,functions, classes and other thing in code .
+
+ANSWER 19: Snake_case is a naming style where words are written in lowercase and separated by underscores(_).
+           ex:- student_name 
+                total_class
+                first_name
+
+Answer 20: pascalCase.
+
+[C. Code Understanding]
+
+ANSWER 21: # Display a massage
+
+ANSWER 22: GIVING THE Imformation that Here the STUDENT'S NAME is store.
+
+ANSWER 23: Student_name is correct
+            because it is clearly tells us that the varible stores a student's name.
+
+ANSWER 24: student_name 
+           total_marks
+
+ANSWER 25: student_record
+
+ANSWER 26: No, because Python is case-sensitive, which means uppercase and lowercase letters are considered differnet.
+
+ANSWER 27: Here x, y and z use in big python programming get create confusion amd messyness.
+
+ANSWER 28:
