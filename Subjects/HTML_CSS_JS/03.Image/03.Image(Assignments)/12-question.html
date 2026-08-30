@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Images Side by Side</title>
+</head>
+<body>
+
+    <h1>Images</h1>
+
+    <!-- Logo - Loads immediately -->
+    <img src="MyProject/Photo.jpg"
+         alt="Company Logo"
+         width="250"
+         loading="eager">
+
+    <!-- Product image - Loads lazily -->
+    <img src="MyProject/logo.png"
+         alt="Product shoe"
+         width="250"
+         loading="lazy">
+
+</body>
+</html>
