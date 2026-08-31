@@ -63,10 +63,41 @@
 # city="Panta"
 # print("My name is",name+". My father's name is",father_name+". My mother's name is",mother_name+". I live in",city)
 
-#question-21
-name="Neha Sharam"
-subject="Python Programming"
-marks=88
-grande="A"
-Precentage=88.0
-print(name,"scored",marks,"marks in",subject)
+# #question-21
+# name="Neha Sharam"
+# subject="Python Programming"
+# marks=88
+# grande="A"
+# Precentage=88.0
+# print(name,"scored",marks,"marks in",subject)
+
+
+# #question-22
+# brand="HP"
+# model="Pavilion 15"
+# processor="Intel Core i5"
+# ram="16 GB"
+# stroage="512 GB SSD"
+# price=65000
+# print("I have an",brand,model,"with",processor+",",ram,"RAM,",stroage+", and it costs",price,"rupees.")
+
+#question-23
+movie="3 Idiots"
+genre="Comedy Drama"
+rating=8.4
+language="Hindi"
+release_year=2009
+print(movie,"is a",genre,"movie in",language+".","It was released in",release_year,"and has a rating of",rating)
+
+
+# #question-24
+# name="Arjun Patel"
+# age=19
+# college="ABC Institute of Technology"
+# branch="Computer Science"
+# semester=1
+# city="Ahmedabad"
+# percentage=87.5
+# programming="Python"
+# print("My name is",name+". I am",age,"year old and I am studying",branch,"in semester",semester,"at",college,"in",city+". I scored",percentage,"percent and my favorite programming language is",programming+".")
+
