@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Video Player</title>
+
+    <style>
+        .video-container {
+            width: 100%;
+            max-width: 560px;
+            aspect-ratio: 16 / 9;
+        }
+
+        .video-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        @media (max-width: 600px) {
+            .video-container {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="video-container">
+        <iframe
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            allow="fullscreen; gyroscope"
+            allowfullscreen
+            title="Responsive Video With Gyroscope">
+        </iframe>
+    </div>
+
+</body>
+</html>

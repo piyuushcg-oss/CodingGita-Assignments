@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Page Iframe</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            height: 70px;
+            padding: 20px;
+            background: #333;
+            color: white;
+        }
+
+        iframe {
+            flex: 1;
+            width: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Device Control Dashboard</h1>
+    </header>
+
+    <iframe
+        src="https://www.example.com"
+        allow="fullscreen; gyroscope; usb"
+        title="Full Device Control Dashboard">
+    </iframe>
+
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application</title>
+</head>
+<body>
+
+<h1>Job Application Form</h1>
+
+<form action="/apply.php"
+      method="post"
+      enctype="multipart/form-data">
+
+    <fieldset>
+        <legend>Personal Details</legend>
+
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <br><br>
+
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required>
+    </fieldset>
+
+    <br>
+
+    <fieldset>
+        <legend>Experience</legend>
+
+        <label for="experience">Work Experience:</label>
+
+        <textarea
+            id="experience"
+            name="experience"
+            rows="5"
+            cols="50"
+            required>
+        </textarea>
+    </fieldset>
+
+    <br>
+
+    <label for="resume">Resume:</label>
+    <input
+        type="file"
+        id="resume"
+        name="resume"
+        accept=".pdf"
+        required>
+
+    <br><br>
+
+    <p>Employment Type:</p>
+
+    <input
+        type="radio"
+        id="fulltime"
+        name="employment"
+        value="full-time">
+
+    <label for="fulltime">Full-time</label>
+
+    <input
+        type="radio"
+        id="parttime"
+        name="employment"
+        value="part-time">
+
+    <label for="parttime">Part-time</label>
+
+    <br><br>
+
+    <input
+        type="checkbox"
+        id="terms"
+        name="terms"
+        value="accepted"
+        required>
+
+    <label for="terms">
+        I agree to the terms and conditions.
+    </label>
+
+    <br><br>
+
+    <button type="submit">Submit Application</button>
+
+    <button type="submit" formnovalidate>
+        Save Draft
+    </button>
+
+</form>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Permission Iframes</title>
+
+    <style>
+        iframe {
+            border: none;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <iframe
+        src="https://www.example.com"
+        width="500"
+        height="250"
+        allow="fullscreen"
+        title="Fullscreen Example">
+    </iframe>
+
+    <iframe
+        src="https://www.example.com"
+        width="600"
+        height="300"
+        allow="gyroscope"
+        title="Gyroscope Example">
+    </iframe>
+
+    <iframe
+        src="https://device.example.com"
+        width="700"
+        height="350"
+        allow="usb"
+        title="USB Device Example">
+    </iframe>
+
+</body>
+</html>
