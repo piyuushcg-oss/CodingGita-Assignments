@@ -66,7 +66,7 @@
 
 
 #question-55
-number = 684
+# number = 684
 
 # a = number % 10
 # b = number // 10
