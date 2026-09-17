@@ -76,7 +76,40 @@
 
 
 #question-30
-word=input("Enter the word:")
-print(word[0:3])
-print(word[-1:-4:-1])
-print(word[::2])
+#word=input("Enter the word:")
+# print(word[0:3])
+# print(word[-1:-4:-1])
+#print(word[::2])
+
+
+
+
+
+
+
+
+
+
+
+#question-31
+# text = "ABCDEFGHIJ"
+
+# print(text[2:8:2])     #CEG
+# print(text[8:2:-2])    #IGECA
+# print(text[::-2])      #JHFDB
+
+
+
+
+
+
+
+
+
+#QUESTION-32
+
+# text = "BTECH-CSE-2026"
+
+# print(text[0:5])
+# print(text[6:9])
+# print(text[10:])
