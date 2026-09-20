@@ -95,3 +95,247 @@ https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-part-1.git
 
 
 ---
+
+
+
+---
+
+# Q3. Practical — Cherry-Pick Multiple Commits
+
+Create your own project scenario.
+
+Examples:
+
+* E-commerce website
+* Library Management System
+* Hospital Management System
+* College Management System
+* Food Delivery Application
+
+### Tasks
+
+1. Create a Git repository.
+2. Create a `main` branch with an initial commit.
+3. Create a meaningful feature branch.
+4. Make at least **3 commits** on the feature branch.
+5. Switch back to `main`.
+6. Cherry-pick **any two specific commits** from the feature branch.
+
+Use:
+
+```bash
+git cherry-pick <commit_id1> <commit_id2>
+```
+
+7. Display the history:
+
+```bash
+git log --oneline --graph --all
+```
+
+### Requirement
+
+Do **not** use generic commit messages such as:
+
+```text
+commit 1
+commit 2
+commit 3
+```
+
+Use meaningful messages such as:
+
+```text
+Add product search
+Add product details
+Fix product price
+```
+
+---
+
+# Q4. Practical — Cherry-Pick Commit Range
+
+Create a repository with at least **4 commits**:
+
+```text
+A → B → C → D
+```
+
+Use meaningful commit messages instead of A, B, C, and D.
+
+For example:
+
+```text
+Create homepage
+Add navigation bar
+Add login page
+Fix login validation
+```
+
+### Task 1 — Excluding Starting Commit
+
+Cherry-pick a range using:
+
+```bash
+git cherry-pick <start_commit>..<end_commit>
+```
+
+Identify which commits are selected.
+
+---
+
+### Task 2 — Including Starting Commit
+
+Now use:
+
+```bash
+git cherry-pick <start_commit>^..<end_commit>
+```
+
+Identify which commits are selected.
+
+### Answer
+
+Explain the difference between:
+
+```bash
+git cherry-pick <start_commit>..<end_commit>
+```
+
+and:
+
+```bash
+git cherry-pick <start_commit>^..<end_commit>
+```
+
+---
+
+# Q5. Practical — Resolve a Cherry-Pick Conflict
+
+Create a simple project with two branches:
+
+```text
+main
+feature
+```
+
+### Tasks
+
+1. Create a file called:
+
+```text
+Student.txt
+```
+
+2. Add a student name on the `feature` branch.
+3. Commit the change.
+4. Switch to `main`.
+5. Modify the **same line** in `Student.txt`.
+6. Commit the change.
+7. Try to cherry-pick the commit from `feature`.
+
+Example:
+
+```bash
+git cherry-pick <feature_commit_id>
+```
+
+8. Resolve the conflict manually.
+9. Stage the resolved file:
+
+```bash
+git add Student.txt
+```
+
+10. Continue the cherry-pick:
+
+```bash
+git cherry-pick --continue
+```
+
+11. Check the final history:
+
+```bash
+git log --oneline --graph --all
+```
+
+---
+
+# Q6. Short Practical + Theoretical Questions 
+
+Perform the following commands and explain what each one does:
+
+### 1. Find commit history
+
+```bash
+git log --oneline
+```
+
+### 2. Cherry-pick one commit
+
+```bash
+git cherry-pick <commit_id>
+```
+
+### 3. Cherry-pick multiple commits
+
+```bash
+git cherry-pick <commit_id1> <commit_id2>
+```
+
+### 4. Cherry-pick a range
+
+```bash
+git cherry-pick <start_commit>..<end_commit>
+```
+
+### 5. Cherry-pick a range including the starting commit
+
+```bash
+git cherry-pick <start_commit>^..<end_commit>
+```
+
+### 6. Continue after resolving a conflict
+
+```bash
+git cherry-pick --continue
+```
+
+### 7. Cancel cherry-pick
+
+```bash
+git cherry-pick --abort
+```
+
+### 8. Skip the current commit
+
+```bash
+git cherry-pick --skip
+```
+
+---
+
+# Submission Checklist
+
+Before submitting, make sure you have:
+
+* [ ] Created your own Git repository.
+* [ ] Created meaningful branches.
+* [ ] Created meaningful commit messages.
+* [ ] Cherry-picked a single commit.
+* [ ] Cherry-picked multiple commits.
+* [ ] Used a commit range.
+* [ ] Used `<start_commit>^..<end_commit>`.
+* [ ] Resolved a cherry-pick conflict.
+* [ ] Used `--continue`.
+* [ ] Used `--abort`.
+* [ ] Used `--skip`.
+* [ ] Checked history using:
+
+  ```bash
+  git log --oneline --graph --all
+  ```
+
+---
+
+
