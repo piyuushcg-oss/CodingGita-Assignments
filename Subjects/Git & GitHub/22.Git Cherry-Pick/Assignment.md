@@ -165,8 +165,6 @@ https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-part-2
 
 
 
-
-
 ---
 
 # Q4. Practical — Cherry-Pick Commit Range
@@ -225,6 +223,15 @@ git cherry-pick <start_commit>^..<end_commit>
 ```
 
 ---
+
+
+***ANSWER***
+https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-part-3
+<img width="1917" height="1077" alt="Git   Github Day 22 question-04-01 jpeg" src="https://github.com/user-attachments/assets/269da520-7d39-4464-b901-7fb13e3586c3" />
+<img width="1917" height="1077" alt="Git   Github Day 22 question-04-02 jpeg" src="https://github.com/user-attachments/assets/8771e126-a8c1-46ff-878b-89959bbb4812" />
+
+<img width="1917" height="1075" alt="Git   Github Day 22 question-04-03 jpeg" src="https://github.com/user-attachments/assets/bea62fcd-ada8-4f57-8e28-6b4d1d9d5102" />
+
 
 # Q5. Practical — Resolve a Cherry-Pick Conflict
 
