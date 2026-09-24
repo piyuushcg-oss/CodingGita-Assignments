@@ -151,6 +151,22 @@ Add product details
 Fix product price
 ```
 
+
+***ANSWER***
+
+
+https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-part-2
+<img width="1911" height="1076" alt="Git   Github Day 22 question-03-01 jpeg" src="https://github.com/user-attachments/assets/533e4f42-694e-416f-971b-e244570e084a" />
+<img width="1917" height="1072" alt="Git   Github Day 22 question-03-02 jpeg" src="https://github.com/user-attachments/assets/4700a4df-e672-47d6-92a0-b3708939b302" />
+<img width="1912" height="1076" alt="Git   Github Day 22 question-03-03 jpeg" src="https://github.com/user-attachments/assets/1f153d6d-5dea-4533-aa00-db7c0ae90387" />
+<img width="1917" height="1072" alt="Git   Github Day 22 question-03-04 jpeg" src="https://github.com/user-attachments/assets/49d81145-3906-47e0-ad8f-a025ad8cf2e1" />
+
+
+
+
+
+
+
 ---
 
 # Q4. Practical — Cherry-Pick Commit Range
