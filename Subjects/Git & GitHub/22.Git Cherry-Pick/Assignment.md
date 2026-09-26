@@ -282,6 +282,16 @@ git cherry-pick --continue
 git log --oneline --graph --all
 ```
 
+
+***ANSWER***
+https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-question-5
+<img width="1917" height="1077" alt="Git   Github Day 22 question-05-01 jpeg" src="https://github.com/user-attachments/assets/f1de5ca7-67c7-475e-b1e1-c22416334aba" />
+<img width="1902" height="1077" alt="Git   Github Day 22 question-05-02 jpeg" src="https://github.com/user-attachments/assets/8b8f6a5e-b8df-4270-ae13-b75b82deffc7" />
+<img width="1917" height="1077" alt="Git   Github Day 22 question-05-03 jpeg" src="https://github.com/user-attachments/assets/35e8efaa-39ff-42f6-9ff0-4789a9d54368" />
+
+
+
+
 ---
 
 # Q6. Short Practical + Theoretical Questions 
