@@ -346,6 +346,30 @@ git cherry-pick --abort
 git cherry-pick --skip
 ```
 
+
+
+***ANSWER***
+https://github.com/piyuushcg-oss/Assignment-22-cherry-pick-question-6
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-01 jpeg" src="https://github.com/user-attachments/assets/3af4c353-b2ff-465b-8cb0-cdb67d854751" />
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-02 jpeg" src="https://github.com/user-attachments/assets/90bf2a19-e133-4288-8b1d-69e290628e22" />
+
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-04 jpeg" src="https://github.com/user-attachments/assets/61769ade-582a-4cee-b4f2-868b38d733d9" />
+
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-05 jpeg" src="https://github.com/user-attachments/assets/312a50d0-f4f0-40aa-acf7-56eecf9259ee" />
+
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-06 jpeg" src="https://github.com/user-attachments/assets/d23c987b-6123-49d7-9a89-0ef2b39be3f2" />
+
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-07 jpeg" src="https://github.com/user-attachments/assets/06e64ce0-4b58-4dad-8fd0-73491332537b" />
+
+<img width="1917" height="1077" alt="Git   Github Day 22 question-06-08 jpeg" src="https://github.com/user-attachments/assets/25aa43b0-161f-4ec8-9a42-38272240ab6f" />
+
+<img width="1916" height="1065" alt="Git   Github Day 22 question-06-09 jpeg" src="https://github.com/user-attachments/assets/3f68fcb6-e17b-4fdc-8fdf-babe8c3233c8" />
+
+<img width="1917" height="1075" alt="Git   Github Day 22 question-06-10 jpeg" src="https://github.com/user-attachments/assets/6c52e415-e749-47be-aaf6-f086eaa53943" />
+
+
+
+
 ---
 
 # Submission Checklist
