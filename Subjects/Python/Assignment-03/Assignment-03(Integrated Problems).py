@@ -88,6 +88,23 @@
 
 
 
-#question-65
+# # question-65
 
+# word=input("Enter a word:")
+# print(f"Character:",word)
+# print("Code:",ord(word))
+# print("Previous:",chr(ord(word)-1))
+# print("Next:",chr(ord(word)+1))
+
+
+
+
+# #question-66
+# product=input("Enter the name of product:")
+# price=int(input("Enter the price of product:"))
+# quantity=int(input("Enter the quantity of product:"))
+# discount_percentage=int(input("Enter the discount percentage:"))
+# subtotal=int(price)*quantity
+# discount=int(subtotal)*discount_percentage/100
+# final_total=int(subtotal)-int(discount)
 
