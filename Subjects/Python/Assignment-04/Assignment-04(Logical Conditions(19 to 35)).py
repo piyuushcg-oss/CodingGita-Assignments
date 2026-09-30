@@ -40,3 +40,38 @@
 #     print("Access Greanted")
 # else:
 #     print("Access Denied")
+
+
+
+
+
+
+# # question-33
+# place=input("Enter your location:")
+# if place=="Ahmedabad" or place =="Gandhinagar":
+#     print("Delivery Available")
+# else:
+#     print("Delivery Unavailable")
+
+
+
+
+# #question-34
+# num=int(input("Enter a number:"))
+# if 50>=num>=10:
+#     print("Inside the range")
+# else:
+#     print("Outside the range")
+
+
+
+
+
+# #question-35
+# amount=int(input("Enter your amount:"))
+# otp=int(input("Enter OTP:"))
+# if amount<=50000:
+#     if otp == 1234:
+#         print("Transaction Approved")
+# else:
+#     print("Transaction Declined")
