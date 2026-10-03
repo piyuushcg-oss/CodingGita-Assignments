@@ -227,7 +227,7 @@
 
 
 
-// // question-4
+// question-4
 
 // let a="Piyush"
 // let b="dfevrv ferfref erfere"
@@ -309,3 +309,161 @@
 // console.log(num, text, flag, empty, nothing, unique, big);
 
 
+
+
+
+// PART-03
+
+// // question-01
+// let obj={
+//     name:"Riya",
+//     age:18,
+//     isEnrolled: true,
+// }
+// console.log(obj.name,obj.age,obj.isEnrolled)
+// console.log(obj.name)
+// console.log(obj.age)
+// console.log(obj.isEnrolled)
+
+
+
+// // question-02
+// let num=[1,2,3,4,5,6,7];
+// console.log(num[0])
+// console.log(num[1])
+// console.log(num[2])
+// console.log(num[3])
+// console.log(num[4])
+// console.log(num[5])
+
+
+
+
+
+// // question-03
+// function calculateArea(length,width){
+//     let a = "piyush"
+//     return(length*width)
+    
+
+// }
+
+// --------------by sir ji
+// let arr = [1,2,3];
+// console.log(arr)
+// console.log(typeof(arr))
+
+// function abc(){
+
+// }
+// console.log(abc())     // [function]
+// console.log(typeof(abc))   // function
+// console.log(calculateArea(7,7))
+// console.log(calculateArea(13,9))
+
+
+
+
+
+// // question-04
+// let a=1234;
+// b="Hello";
+// c=true;
+// d=null;
+// console.log(a,typeof(a))
+// console.log(b,typeof(b))
+// console.log(c,typeof(c))
+// console.log(d,typeof(d))
+// let name={
+//     a:"Ki haal hai ji",
+// }
+// console.log(name.a,typeof(name.a))
+// let A=["12","pifdvfd",12,null]
+// console.log(A[1],A[2],A[3],A[4])
+// console.log(typeof(A))
+// function abc(){
+// }
+// console.log(abc)
+// console.log(typeof(abc))
+
+
+// // question-05
+// let userName;      =>valid
+// let 2ndPlace;      =>Invaild,because of the rule of variable naming rules, Vaild=>let place2nd
+// let _privateData;  =>vaild
+// let $price;        =>vaild
+// let my-age;        =>Invaild,because of the rule of variable naming rules, Vaild=>my_age
+// let function;      =>Invaild,because of the rule of variable naming rules,vaild=>only function or let
+// let totalCount;    =>Vaild
+// let const;         =>Invaild,because of the rule of variable naming rules,vaild=>only let or conts
+
+
+
+
+// // question-06
+// let num_1 = 10;
+// let num_2 = 5;
+// const Product = x * y;
+// let BIG = 100;
+
+
+// // question-07
+// // 01:-
+// var a;
+// console.log(a)
+// var a=10
+// console.log(a)
+// // 02:-
+// let name="Piyush"
+// console.log(name)
+// // 03:-
+// const age=19
+// console.log(age)
+
+
+
+
+
+//question-08
+// 01:-object 
+// 02:-object
+// 03:-function
+// 04:-Amit
+// 05:-red
+// 06:-Hi!
+
+
+// let person = { name: "Amit", age: 22 };
+// let colors = ["red", "green", "blue"];
+// function sayHi() {
+//   return "Hi!";
+// }
+// let empty = null;
+
+// console.log(typeof person);
+// console.log(typeof colors);
+// console.log(typeof sayHi);
+// console.log(typeof empty);
+// console.log(person.name);
+// console.log(colors[1]);
+// console.log(sayHi());
+
+
+// // question-09
+// let student01 = { name: "Neha", Age: 19 }
+// let scores = [90, 85, 88]
+// function greet(name){
+//   return "Hello " + name;
+// }
+// const maxScore = 100
+
+// console.log(student01.name)
+// console.log(scores[0])
+// console.log(greet("Neha"))
+// console.log(maxScore)
+
+
+
+// question-10
+// a:- In Object, Collection of key-value and keys are property names; values can be any data type.
+//     In Arry, Ordered list of values; Accessed by index(position) , starting from 0
