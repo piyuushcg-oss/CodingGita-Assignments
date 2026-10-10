@@ -741,5 +741,224 @@
 // console.log(stock)
 
 
+// JavaScript Assignment Answers
+// 3. Subtract and Assign -=
 
+// Q1. Health is 100. Player takes 35 damage.
+
+// let health = 100;
+// health -= 35;
+// console.log(health); // 65
+
+// Q2. Stock of 300 items is reduced by 45.
+
+// let stock = 300;
+// stock -= 45;
+// console.log(stock); // 255
+
+// Q3. Predict the output
+
+// let lives = 5;
+// lives -= 2;
+// console.log(lives);
+
+// Output: 3
+
+// Q4. Predict the output
+
+// let num = "40";
+// num -= 15;
+// console.log(num);
+
+// Output: 25
+
+
+
+// Q5. What is the result?
+
+// let x = "abc";
+// x -= 5;
+// console.log(x);
+
+// Output: NaN
+
+
+
+// 4. Multiply and Assign *=
+
+// Q1. Price is ₹500. Apply 18% GST.
+
+// let price = 500;
+// price *= 1.18;
+// console.log(price); // 590
+
+// Q2. A quantity of 8 is tripled.
+
+// let quantity = 8;
+// quantity *= 3;
+// console.log(quantity); // 24
+
+// Q3. Predict the output
+
+// let amount = 200;
+// amount *= 1.1;
+// console.log(amount);
+
+// Output: 220.00000000000003 or 220 
+// Q4. Predict the output
+
+// let val = "7";
+// val *= 3;
+// console.log(val);
+
+// Output: 21
+
+// Explanation: JavaScript converts "7" into the number 7 before multiplication.
+
+// Q5. What is the result?
+
+// let y = "hello";
+// y *= 2;
+// console.log(y);
+
+// Output: NaN
+
+
+
+// 5. Divide and Assign /=
+
+// Q1. Share 180 chocolates among 6 children.
+
+// let chocolates = 180;
+// chocolates /= 6;
+// console.log(chocolates); // 30
+
+// Q2. Distance is 300 km and time is 5 hours.
+
+// let distance = 300;
+// distance /= 5;
+// console.log(distance); // 60 km/h
+
+// Q3. Predict the output
+
+// let total = 400;
+// total /= 8;
+// console.log(total);
+
+// Output: 50
+
+// Q4. Predict the output
+
+// let num = "100";
+// num /= 4;
+// console.log(num);
+
+// Output: 25
+
+// Q5. What is the result?
+
+// let z = 50;
+// z /= 0;
+// console.log(z);
+
+// Output: Infinity
+
+
+
+// 6. Modulus and Assign %=
+
+// Q1. Divide 47 by 6 and store the remainder.
+
+// let num = 47;
+// num %= 6;
+// console.log(num); // 5
+
+// Q2. Counter is 23. Keep the remainder when divided by 12.
+
+// let counter = 23;
+// counter %= 12;
+// console.log(counter); // 11
+
+// Q3. Predict the output
+
+// let num = 29;
+// num %= 5;
+// console.log(num);
+
+// Output: 4
+
+// Q4. Predict the output
+
+// let x = "17";
+// x %= 3;
+// console.log(x);
+
+// Output: 2
+
+
+
+// Q5. What is the result?
+
+// let m = 15;
+// m %= 0;
+// console.log(m);
+
+// Output: NaN
+
+
+
+// 7. Exponentiation and Assign **=
+
+// Q1. Side of a cube is 5. Calculate its volume.
+
+// let side = 5;
+// side **= 3;
+// console.log(side); // 125
+
+// Explanation: 5
+// 3
+// =5×5×5=125.
+
+// Q2. Square the number 4.
+
+// let num = 4;
+// num **= 2;
+// console.log(num); // 16
+
+// Q3. Predict the output
+
+// let base = 2;
+// base **= 5;
+// console.log(base);
+
+// Output: 32
+
+// Q4. Predict the output
+
+// let n = 4;
+// n **= 0.5;
+// console.log(n);
+
+// Output: 2
+
+
+
+// Q5. What is the result?
+
+// let p = 2;
+// p **= -1;
+// console.log(p);
+
+// Output: 0.5
+
+// Explanation: A negative exponent gives the reciprocal.
+
+// 2
+// −1
+// =
+// 2
+// 1
+// 	​
+
+// =0.5
 
